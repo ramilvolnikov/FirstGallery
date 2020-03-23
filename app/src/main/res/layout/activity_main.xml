@@ -18,8 +18,7 @@
         app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.28"
-        app:srcCompat="@drawable/imageview" />
+        app:layout_constraintVertical_bias="0.28" />
 
     <Button
         android:id="@+id/RotateLeft"
